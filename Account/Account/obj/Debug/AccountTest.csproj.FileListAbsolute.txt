@@ -1,0 +1,7 @@
+C:\Users\jhoff_000\Documents\GitHub\Account\Account\bin\Debug\Account.exe.config
+C:\Users\jhoff_000\Documents\GitHub\CSharp\Account\Account\bin\Debug\Account.exe.config
+C:\Users\jhoff_000\Documents\GitHub\CSharp\Account\Account\obj\Debug\AccountTest.csprojResolveAssemblyReference.cache
+C:\Users\jhoff_000\Documents\GitHub\CSharp\Account\Account\bin\Debug\Account.exe
+C:\Users\jhoff_000\Documents\GitHub\CSharp\Account\Account\bin\Debug\Account.pdb
+C:\Users\jhoff_000\Documents\GitHub\CSharp\Account\Account\obj\Debug\Account.exe
+C:\Users\jhoff_000\Documents\GitHub\CSharp\Account\Account\obj\Debug\Account.pdb

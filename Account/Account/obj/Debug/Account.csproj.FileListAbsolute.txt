@@ -1,0 +1,2 @@
+C:\Users\jhoff_000\Documents\GitHub\Account\Account\bin\Debug\Account.exe.config
+C:\Users\jhoff_000\Documents\GitHub\Account\Account\obj\Debug\Account.csprojResolveAssemblyReference.cache
