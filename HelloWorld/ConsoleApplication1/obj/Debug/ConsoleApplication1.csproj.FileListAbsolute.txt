@@ -1,0 +1,6 @@
+C:\Users\jhoff_000\Desktop\C# Programs\HelloWorld\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\jhoff_000\Desktop\C# Programs\HelloWorld\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\jhoff_000\Desktop\C# Programs\HelloWorld\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\jhoff_000\Desktop\C# Programs\HelloWorld\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\jhoff_000\Desktop\C# Programs\HelloWorld\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\jhoff_000\Desktop\C# Programs\HelloWorld\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
