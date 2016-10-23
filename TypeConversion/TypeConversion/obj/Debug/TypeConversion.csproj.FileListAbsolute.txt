@@ -1,0 +1,5 @@
+C:\Users\jhoff_000\Desktop\C# Programs\TypeConversion\TypeConversion\bin\Debug\TypeConversion.exe.config
+C:\Users\jhoff_000\Desktop\C# Programs\TypeConversion\TypeConversion\bin\Debug\TypeConversion.exe
+C:\Users\jhoff_000\Desktop\C# Programs\TypeConversion\TypeConversion\bin\Debug\TypeConversion.pdb
+C:\Users\jhoff_000\Desktop\C# Programs\TypeConversion\TypeConversion\obj\Debug\TypeConversion.exe
+C:\Users\jhoff_000\Desktop\C# Programs\TypeConversion\TypeConversion\obj\Debug\TypeConversion.pdb
